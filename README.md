@@ -109,7 +109,7 @@ end
 end
 ```
 
-![image-20200322220403952](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200322220403952.png)
+![elipse](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/elipse.png?raw=true)
 
 **b) polynomial line fitting**
 
@@ -180,7 +180,7 @@ ylabel('\bf Y-axis');
 set(gca,'FontSize',10,'linewidth',2,'fontweight','bold');
 ```
 
-![image-20200322125001002](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200322125001002.png)
+![polynomial](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/polynomial.png?raw=true)
 
 **c) Plane fitting **
 
@@ -255,7 +255,7 @@ ylabel('\bf Y-axis');
 set(gca,'FontSize',10,'linewidth',2,'fontweight','bold');
 ```
 
-![image-20200322125247890](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200322125247890.png)
+![plane](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/plane.png?raw=true)
 
 ## Part 3: Measuring Distances on an Image
 
@@ -328,7 +328,7 @@ sc=mean([scX,scY]);
 distance_4a=sc*sqrt(delta_x^2+delta_y^2)
 ```
 
-![image-20200317223814769](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223814769.png)
+![ruler](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/ruler.png?raw=true)
 
 ![image-20200317223850299](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223850299.png)
 
@@ -437,7 +437,7 @@ end
 
 ![image-20200317223535908](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223535908.png)
 
-![image-20200317223557539](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223557539.png)
+![ruler-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/ruler-measure.png?raw=true)
 
 **c)**
 
@@ -609,7 +609,7 @@ end
 
 ```
 
-![image-20200317223221291](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223221291.png)
+![books-detection](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/books-detection.png?raw=true)
 
 
 
@@ -788,10 +788,10 @@ end
 
 ```
 
-![image-20200319171753131](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200319171753131.png)
+![building-panorama](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/building-pano.png?raw=true)
 
 Panorama made with images I took myself (quarantined at home):
 
-![image-20200321214001173](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200321214001173.png)
+![moose-panorama](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/moose-pano.png?raw=true)
 
 I used 5 images for the moose panorama. The reason why the quality is not perfect is mostly RANSAC not being able to calculate the perfect Homography matrix. If I used more iterations (larger N) and knew the exact threshold needed I could get a better quality panorama. 
