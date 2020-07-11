@@ -435,7 +435,7 @@ H=reshape(B,3,3)';
 end
 ```
 
-![image-20200317223535908](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223535908.png)
+![desk-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/desk-img.png?raw=true)
 
 ![desk-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/desk-measure.png?raw=true)
 
