@@ -330,7 +330,7 @@ distance_4a=sc*sqrt(delta_x^2+delta_y^2)
 
 ![ruler](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/ruler.png?raw=true)
 
-![image-20200317223850299](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223850299.png)
+![ruler-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/ruler-measure.png?raw=true)
 
 **b)**
 
@@ -437,7 +437,7 @@ end
 
 ![image-20200317223535908](C:\Users\Hannah\AppData\Roaming\Typora\typora-user-images\image-20200317223535908.png)
 
-![ruler-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/ruler-measure.png?raw=true)
+![desk-measure](https://github.com/bregmanh/Image-Recognition-and-Homography-Transformation/blob/master/docs/desk-measure.png?raw=true)
 
 **c)**
 
