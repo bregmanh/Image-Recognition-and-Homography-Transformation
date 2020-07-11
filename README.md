@@ -1,6 +1,6 @@
 # Image Recognition and Stitching
 
-This  is one of my assignments for the smart Structure Technology Class at the University of Waterloo.  I learned about RANSAC (estimate parameters of a mathematical model from a set of observed data that contains outliers) about subsequently was able to use feature recognition to measure distances on an image as well as perform image stitching. 
+This  is one of my assignments for the smart Structure Technology Class at the University of Waterloo.  I learned about RANSAC (estimate parameters of a mathematical model from a set of observed data that contains outliers) and subsequently was able to use feature recognition to measure distances on an image as well as perform image stitching. 
 
 ## Part 1: Theory Practice
 
